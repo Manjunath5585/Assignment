@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-09T07:27:26 IST" name="Suite" finished-at="2022-11-09T07:27:49 IST" duration-ms="22393">
+    <groups>
+    </groups>
+    <test started-at="2022-11-09T07:27:26 IST" name="Test" finished-at="2022-11-09T07:27:49 IST" duration-ms="22393">
+      <class name="Login.LoginWitoutUNPWD">
+        <test-method signature="loginwithoutun()[pri:0, instance:Login.LoginWitoutUNPWD@1ba9117e]" started-at="2022-11-09T07:27:26 IST" name="loginwithoutun" finished-at="2022-11-09T07:27:36 IST" duration-ms="9877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithoutun -->
+      </class> <!-- Login.LoginWitoutUNPWD -->
+      <class name="Login.LoginWitoutUsername">
+        <test-method signature="loginwithoutun()[pri:0, instance:Login.LoginWitoutUsername@48974e45]" started-at="2022-11-09T07:27:41 IST" name="loginwithoutun" finished-at="2022-11-09T07:27:49 IST" duration-ms="7254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithoutun -->
+      </class> <!-- Login.LoginWitoutUsername -->
+      <class name="Login.LoginWitoutPassword">
+        <test-method signature="loginwithoutun()[pri:0, instance:Login.LoginWitoutPassword@247d8ae]" started-at="2022-11-09T07:27:36 IST" name="loginwithoutun" finished-at="2022-11-09T07:27:41 IST" duration-ms="5169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithoutun -->
+      </class> <!-- Login.LoginWitoutPassword -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
