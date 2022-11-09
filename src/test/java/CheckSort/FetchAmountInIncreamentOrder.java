@@ -22,7 +22,7 @@ public class FetchAmountInIncreamentOrder extends BaseClassUtilities
 	{
 	Home_page H = new Home_page(driver);
 		
-		//Click on Amonut Button
+		//Click on the Amonut Button
 		H.Home_Page();
 		
 		
